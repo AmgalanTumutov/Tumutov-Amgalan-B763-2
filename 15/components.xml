@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Device>
+    <Component>
+        <Name>Keyboard</Name>
+        <Origin>China</Origin>
+        <Price>500</Price>
+        <Type>
+            <Peripheral>true</Peripheral>
+            <PowerConsumption>5</PowerConsumption>
+            <Cooler>true</Cooler>
+            <Group>Input Devices</Group>
+            <Ports>USB</Ports>
+        </Type>
+        <Critical>true</Critical>
+    </Component>
+    <Component>
+        <Name>Monitor</Name>
+        <Origin>Japan</Origin>
+        <Price>2000</Price>
+        <Type>
+            <Peripheral>true</Peripheral>
+            <PowerConsumption>50</PowerConsumption>
+            <Cooler>false</Cooler>
+            <Group>Displays</Group>
+            <Ports>USB</Ports>
+        </Type>
+        <Critical>true</Critical>
+    </Component>
+</Device>
