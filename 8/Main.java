@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class Main {
     public static void main(String[] args) {
-        String text = "Пример текста";
+        String text = "ВСЁ ЖИВОЕ БОИТСЯ МУЧЕНИЯ, ВСЁ ЖИВОЕ БОИТСЯ СМЕРТИ; ПОЙМИ САМОГО СЕБЯ ВО ВСЯКОМ ЖИВОМ СУЩЕСТВЕ, НЕ МУЧАЙ И НЕ УБИВАЙ, НЕ ПРИЧИНЯЙ СТРАДАНИЙ И СМЕРТИ.";
         Map<Character, Integer> consonantsCount = new HashMap<>();
         String consonants = "бвгджзйклмнпрстфхцчшщ";
 
