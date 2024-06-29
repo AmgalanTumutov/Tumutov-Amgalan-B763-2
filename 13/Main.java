@@ -20,7 +20,7 @@ public class Main {
         while (true) {
             System.out.print("Введите свой выбор:");
             int choice = scanner.nextInt();
-            scanner.nextLine(); // consume newline character
+            scanner.nextLine(); 
 
             if (choice == 1) {
                 System.out.print("Введите английское слово: ");
