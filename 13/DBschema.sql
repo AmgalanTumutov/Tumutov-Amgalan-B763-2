@@ -1,3 +1,4 @@
+CREATE DATABASE SLOV;
 USE SLOV;
 CREATE TABLE diction (
                          id INT AUTO_INCREMENT PRIMARY KEY,
